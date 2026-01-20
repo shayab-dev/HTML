@@ -24,17 +24,6 @@ This repository is ideal for beginners who want to understand HTML fundamentals 
 
 --- 
 
-# How to Use
-
-Clone the repository:-
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repository-name.git
-Open any .html file in a web browser
-
----
-
 ## 📌 Notes
 
 - No frameworks or libraries are used  
