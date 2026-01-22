@@ -21,6 +21,7 @@ This repository is ideal for beginners who want to understand HTML fundamentals 
 - Forms and input elements
 - Tables and lists
 - Page layout structure
+- projects
 
 --- 
 
